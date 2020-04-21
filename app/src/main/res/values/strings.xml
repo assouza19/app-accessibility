@@ -1,0 +1,14 @@
+<resources>
+    <string name="google_maps_key">AIzaSyDwGk-fxLhpc0KdDB3wv74EIW0ctpA3uM4</string>
+    <string name="app_name">GoOut</string>
+    <string name="confirm">Confirmar</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="inicio">início</string>
+    <string name="perfil">perfil</string>
+    <string name="you_can_like_title">Você pode gostar...</string>
+    <string name="descobrir">Descobrir</string>
+    <string name="mapa">Mapa</string>
+    <string name="construction">Estamos em construção!</string>
+    <string name="ver">ver</string>
+</resources>

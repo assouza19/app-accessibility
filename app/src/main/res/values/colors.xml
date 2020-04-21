@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#244D5A</color>
+    <color name="colorPrimaryDark">@color/pastel_blue</color>
+    <color name="colorAccent">@color/pastel_F1EFE9</color>
+
+    <!-- general colors -->
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteOpacity">#FFFFFE</color>
+    <color name="light_grey_background">#F2F2F2</color>
+    <color name="light_grey">#DEDEDE</color>
+    <color name="black">#000000</color>
+    <color name="black_80">#CC000000</color>
+    <color name="black_231d19">#231d19</color>
+    <color name="black_overlay">#BF252220</color>
+    <color name="light_gray">#F0F0F0</color>
+    <color name="dark_gray">#6F6F6F</color>
+    <color name="grey_disabled">#50353230</color>
+    <color name="grey_background">#F6F3F1</color>
+    <color name="bg_yellow">#F8DE00</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="yellow_alert">#d3b700</color>
+    <color name="yellow_badge">#fce770</color>
+    <color name="yellow_ffcc02">#ffcc02</color>
+    <color name="yellow_ffcc02_40">#64ffcc02</color>
+    <color name="bg_grey_enabled">#575758</color>
+    <color name="slip_text_color">#152d41</color>
+    <color name="border_center_grey">#75333333</color>
+    <color name="separator">#f3e9e5</color>
+    <color name="soft_shadow">#3d7a6d60</color>
+    <color name="circle_red">#b71c1c</color>
+    <color name="very_light_pink">#fbf9f8</color>
+    <color name="grey_e7ded8">#e7ded8</color>
+    <color name="gray_DFDCD9">#DFDCD9</color>
+
+
+    // Cores pastéis
+    <color name="pastel_F1EFE9">#F1EFE9</color>
+    <color name="pastel_blue">#AFC7D0</color>
+    <color name="pastel_dark_blue">#95B4CC</color>
+    <color name="pastel_pink">#F0FEC9C9</color>
+    <color name="pastel_red">#F9665E</color>
+    <color name="pastel_green">#8BD18B</color>
+</resources>
